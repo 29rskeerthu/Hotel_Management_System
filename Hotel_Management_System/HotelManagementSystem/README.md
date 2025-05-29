@@ -7,3 +7,5 @@
 [updationchanges]->(https://github.com/29rskeerthu/Hotel_Management_System/blob/main/Hotel_Management_System/HotelManagementSystem/updationchanges.png)
 
 [deletereservation]->(https://github.com/29rskeerthu/Hotel_Management_System/blob/main/Hotel_Management_System/HotelManagementSystem/delete%20reservation.png)
+
+[deletereservationupdation]->(https://github.com/29rskeerthu/Hotel_Management_System/blob/main/Hotel_Management_System/HotelManagementSystem/delete%20reservation%20updation.png)
